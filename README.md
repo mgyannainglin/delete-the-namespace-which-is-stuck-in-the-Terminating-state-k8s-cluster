@@ -9,7 +9,7 @@ then you will see the namespaces which are stuck in terminating state
 
 ![delete namespace which is stuck in terminating state](stuck-ns.png)
 
-### check the apiserver which are in fals state
+### check the apiserver which are in false state
 
 ```
 kubectl get apiservice |grep -i False
