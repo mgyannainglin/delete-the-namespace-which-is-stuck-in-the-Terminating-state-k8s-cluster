@@ -1,0 +1,1 @@
+# delete-the-namespace-which-is-stuck-in-the-Terminating-state-k8s-cluster
