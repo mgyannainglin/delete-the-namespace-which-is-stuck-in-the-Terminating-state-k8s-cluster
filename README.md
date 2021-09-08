@@ -107,4 +107,3 @@ kubectl get ns
 
 [Click here for Refurl](https://www.ibm.com/docs/en/cloud-private/3.2.x?topic=console-namespace-is-stuck-in-terminating-state)
 
-@yannainglin
