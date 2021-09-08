@@ -1,4 +1,4 @@
-# delete namespace which is stuck in the Terminating state
+# Delete namespace which is stuck in the terminating state
 
 ### Check the namespace
 ```
